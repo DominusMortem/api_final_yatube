@@ -44,6 +44,12 @@ python manage.py migrate
 python manage.py runserver
 ```
 
+### Зависимости:
+
+```
+
+```
+
 ### Примеры запросов:
 
 ***Посты***
